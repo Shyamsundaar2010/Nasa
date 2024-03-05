@@ -1,0 +1,1 @@
+The application is a detailed analysis on the NASA Turbofan Jet Engine Dataset to predict the Remaining Useful Life(RUL) of the engines based on the different variables of the dataset. The XGBoost algorithm is used and hyperparameter finetuning is performed to find the optimal values of RUL for each engine. Federated learning is also performed.
